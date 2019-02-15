@@ -6,3 +6,4 @@
 
 - Now App1: Hello World
 - Now App2: A clock
+- Now week 6 app
