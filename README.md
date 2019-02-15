@@ -4,5 +4,5 @@
 
 ## Projects:
 
-- Now App1
-- Now App2
+- Now App1: Hello World
+- Now App2: A clock
