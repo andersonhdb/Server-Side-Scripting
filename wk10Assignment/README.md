@@ -38,6 +38,8 @@ After running the application, and while still in the application folder, run th
 http POST https://wmdd-anderson-validator.now.sh/superstruct < test2.json
 ```
 
+it should return an error with code 400 and a description on what is wrong.
+
 ## Testing Yup
 
 ### success
@@ -58,4 +60,4 @@ After running the application, and while still in the application folder, run th
 http POST https://wmdd-anderson-validator.now.sh/yup < test4.json
 ```
 
-it should an error 400 and a description on the error.
+it should return an error with code 400 and a description on what is wrong.
