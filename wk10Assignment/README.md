@@ -2,12 +2,12 @@
 this is a test application of two validator APIs: 'superstruct' and 'yup'
 
 # Running The Application:
-navigat to the application folde on the terminal.
+navigate to the application folder on the terminal.
 type:
 ```shell
 now && now alias
 ```
-if this does not work you'll need to type the two commands onde after the othder:
+if this does not work you'll need to type the two commands one after the other:
 ```shell
 now
 ```
@@ -16,7 +16,7 @@ now alias
 ```
 
 # Testing
-There four testing json files inside the validator. Two are for testing superstruct (success and failure) and the rest are for testing yup (also success and failure).
+There are four testing json files inside the validator. Two are for testing superstruct (success and failure) and the rest are for testing yup (also success and failure). For testing HTTPie is necessary
 
 ## Testing superstruct
 
