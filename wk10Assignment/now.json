@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "name": "wk10assingmentvalidator",
+    "alias": "wmdd-anderson-validator.now.sh",
+    "builds": [
+      { "src": "index.js", "use": "@now/node" }
+    ],
+    "routes":[
+        {"src": "/superstruct", "dest": "/index.js"},
+        {"src": "/yup", "dest": "/index.js"}
+    ]
+  }

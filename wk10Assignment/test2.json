@@ -1,0 +1,11 @@
+{
+    "name":"Connan",
+    "race": "Humman",
+    "class": "Barbarian",
+    "strength": "20",
+    "dexterity": "7",
+    "constitution": "20",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "12"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "wk10assignment",
+  "version": "1.0.0",
+  "description": "Week 10 assignment for serverside scripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "superstruct": "^0.6.0",
+    "yup": "^0.27.0"
+  }
+}
