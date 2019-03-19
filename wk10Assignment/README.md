@@ -1,7 +1,7 @@
 # Description:
 this is a test application of two validator APIs: 'superstruct' and 'yup'
 
-# RUNNING THE APPLICATUION
+# Running The Application:
 navigat to the application folde on the terminal.
 type:
 ```shell
