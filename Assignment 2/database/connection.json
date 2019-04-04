@@ -1,0 +1,7 @@
+{
+  "host" : "test.cnhiaciiarv8.us-east-2.rds.amazonaws.com",
+  "port" : "3306",
+  "user" : "ahenriquedanta00",
+  "password" : "h3dgeh0g",
+  "database" : "todo_list_schema"
+}

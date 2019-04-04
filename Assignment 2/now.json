@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "name": "Assignment2-twilio-express",
+    "alias": "wmdd-anderson-assignment2.now.sh",
+    "builds": [
+      { "src": "index.js", "use": "@now/node" }
+    ],
+    "routes": [
+      {"src": "/(.*)", "dest": "/index.js"}
+    ]
+  }
